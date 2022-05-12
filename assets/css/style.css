@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    justify-content: center;
+  }
+
+
+body {
+    background-image: url("/assets/images/flag.png");
+}
+
+#calendar {
+    margin-top: 100px;
+}
+
+#header {
+    margin-top: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    color: white;
+  
+
+}
+    
